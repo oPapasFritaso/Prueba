@@ -1,20 +1,32 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundo.csproj", "{210ED1AE-BD29-4395-9711-076F610B6488}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundoWeb", "HolaMundoWeb\HolaMundoWeb.csproj", "{D292FE88-93BE-4E96-9A57-39CD5144A635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{210ED1AE-BD29-4395-9711-076F610B6488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{210ED1AE-BD29-4395-9711-076F610B6488}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{210ED1AE-BD29-4395-9711-076F610B6488}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{210ED1AE-BD29-4395-9711-076F610B6488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Debug|x64.Build.0 = Debug|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Debug|x86.Build.0 = Debug|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Release|x64.ActiveCfg = Release|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Release|x64.Build.0 = Release|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Release|x86.ActiveCfg = Release|Any CPU
+		{D292FE88-93BE-4E96-9A57-39CD5144A635}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
